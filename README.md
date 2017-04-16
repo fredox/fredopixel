@@ -3,5 +3,3 @@ This is an old canvas project made in order to learn canvas and javascript. Ther
 * **color = 1** assign a random color to almost every pixel
 * **bouncing = 1** Makes the pixels bounce arround the limits of the canvas
 * **love = YourName**  ?????
-
-Demo [here](http://www.fredopixel.com)
